@@ -1,0 +1,5 @@
+firstline(alternative)
+secondline(main)
+thirdline(alternative)
+fourth(main)
+fifthline
